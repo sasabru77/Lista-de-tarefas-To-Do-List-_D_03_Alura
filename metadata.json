@@ -1,0 +1,6 @@
+{
+  "name": "Organizador de Tarefas com Agente de IA",
+  "description": "Aplicação minimalista de lista de tarefas estilo Streamlit para adicionar, gerenciar e concluir atividades, com Agente de IA integrado para planejamento e decomposição de tarefas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
